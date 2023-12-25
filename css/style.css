@@ -1,0 +1,216 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+body{
+    background: green;
+}
+.template{
+    width: 960px;
+    margin: 0 auto;
+}
+/*------------ROW 1------*/
+.row1{
+    width: 100%;
+    background: #FECE22;
+    height: 375px;
+}
+.midpart{
+    width: 750px;
+    margin: 0 auto;
+}
+.leftr1{
+    width: 36%;
+    float: left;
+    margin-top: 159px;
+}
+.leftr1 h5{
+    padding-bottom: 10px;
+}
+.leftr1 h2{
+        padding-bottom: 2px;
+}
+.leftr1 button{
+    margin-top: 7px;
+    border-radius: 106px;
+    padding: 13px;
+    border-style: none;
+}
+.rightr1{
+      float: left;
+    width: 50%;
+}
+.rightr1 img{
+     height: 346px;
+    margin-top: 28px;
+    transform: rotate(21deg);
+}
+/*------------ROW 2------*/
+.row2{
+    height: 195px;
+    background: white;
+    width: 100%
+}
+.about{
+    color: #05A;
+}
+.about h2{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.about p{
+    text-indent: 20px;
+}
+/*-----------Row3----------*/
+.row3{
+    height: 80px;
+    background: #FECE22;
+    width: 100%;
+}
+.row3 h3{
+    text-align: center;
+    padding: 35px;
+    color: white;
+}
+/*------------ROW 4------*/
+.row4{
+    height: 670px;
+    width: 100%;
+    background: white;
+}
+.twopart{}
+.partalltop{
+    padding-top: 25px;
+}
+.partalltop h2{
+    padding-bottom: 25px;
+}
+.part{
+    width: 233px;
+    height: 250px;
+    float: left;
+    margin-left: 25px;
+    position: relative;
+    margin-bottom: 30px;
+}
+.lm{
+    margin-left: 0px;
+}
+.part img{
+    width: 100%;
+    height: 150px;
+    color: 
+}
+.part button{
+    position: absolute;
+    background: #FDC66D;
+    left: 20px;
+    top: 15px;
+    padding: 7px;
+    border-radius: 18px;
+    border: none;
+}
+.partbottom{
+     background: #FDC66D;
+    padding: 10px 0px 10px 10px;
+
+}
+.partbottom h4{}
+.partbottom p{}
+.partallbottom{
+}
+.partallbottomtop{}
+.partallbottomtoppart{
+    background: #FED436;
+    width: 150px;
+    height: 80px;
+    padding: 10px;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.partallbottomtoppart:first-child{
+    margin-left: 0px;
+}
+.partallbottomtoppart img{
+    height: 75px;
+    text-align: center;
+    margin-left: 32px;
+}
+.partallbottombottom{}
+.partallbottom h3{
+        padding-bottom: 27px;
+
+}
+.partallbottombottompart{
+     background: #FED436;
+    width: 150px;
+    height: 80px;
+    padding: 10px;
+    float: left;
+    margin-left: 20px;
+
+}
+.partallbottombottompart:first-child{
+    margin-left: 0px;
+}
+.partallbottombottompart img{
+    height: 75px;
+    text-align: center;
+    margin-left: 32px;
+}
+
+.row5{
+    height: 80px;
+    background: #FDC66D;
+    width: 100%;
+}
+.lefttitle{
+    width: 50%;
+    float: left;
+    padding-top: 16px;
+    color: white;
+    line-height: 30px;
+}
+.lefttitle p{}
+.lefttitle h3{}
+.rightbutton{
+        width: 50%;
+    float: left;
+}
+.rightbutton button{
+    padding: 10px;
+    border-radius: 21px;
+    border-style: none;
+    margin-top: 23px;
+    margin-left: 180px;
+}
+.row6{
+    height: 200px;
+    width: 100%;
+    background: white;
+}
+.footer{}
+.footer h2{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.footerbottom{}
+.footerbottom h4{
+    float: left;
+    width: 187px;
+    text-align: center;
+    font-size: 50px;
+    color: yellow;
+    position: relative;
+}
+.footerbottom h4 span{
+    position: absolute;
+    font-size: 10px;
+        color:black;
+    margin-left: -71px;
+    margin-top: 26px;
+}
+.{}
+.{}
